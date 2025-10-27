@@ -1,0 +1,3 @@
+Full demo output captured per assignment requirements
+
+ERROR running demo.py: No module named 'operations'
